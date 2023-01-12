@@ -15,3 +15,5 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://raw.githubusercontent.com/subrataBAEC/cf-stats/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/subrataBAEC/cf-stats/main/output/rating.svg)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subrataBAEC)](https://github.com/anuraghazra/github-readme-stats)
