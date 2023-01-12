@@ -9,11 +9,12 @@
 subrataBAEC/subrataBAEC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+## Codeforces
 ![](https://raw.githubusercontent.com/subrataBAEC/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/subrataBAEC/cf-stats/main/output/light_card.svg)
 
 ![](https://raw.githubusercontent.com/subrataBAEC/cf-stats/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/subrataBAEC/cf-stats/main/output/rating.svg)
 
+## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subrataBAEC)](https://github.com/anuraghazra/github-readme-stats)
