@@ -8,6 +8,7 @@
   </a>
 </div>
 
+### :man_technologist: About Me :
 - 👋 Hi, I’m subrat saha
 - 🌱 Currently working as Scientific Officer (Research Scientist) at Bangladesh Atomic Energy Commission, Dhaka, Bangladesh.
 - 👀 I’m interested in Machine Learning,Natural Language Processing
@@ -19,6 +20,8 @@
 <!---
 subrataBAEC/subrataBAEC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+ for emoticons: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#activities
 --->
 ##  :fire:  Codeforces
 ![](https://raw.githubusercontent.com/subrataBAEC/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
