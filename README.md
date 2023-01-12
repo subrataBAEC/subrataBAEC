@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://raw.githubusercontent.com/subrataBAEC/cf-stats/main/output/rating.svg)
 
 ## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subrataBAEC&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subrataBAEC&show_icons=true)
 
 ## Most used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subrataBAEC)](https://github.com/anuraghazra/github-readme-stats)
