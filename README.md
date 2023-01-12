@@ -23,9 +23,11 @@ You can click the Preview link to take a look at your changes.
 
  for emoticons: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#activities
 --->
-##  :fire:  Codeforces
+##  :fire:  Codeforces and LeetCode Stat
 
+![](https://raw.githubusercontent.com/subrataBAEC/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/subrataBAEC/cf-stats/main/output/light_card.svg)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=subrata_BAEC&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ![](https://raw.githubusercontent.com/subrataBAEC/cf-stats/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/subrataBAEC/cf-stats/main/output/rating.svg)
