@@ -1,5 +1,5 @@
 - 👋 Hi, I’m subrat saha
-- 🌱currently working as Scientific Officer (Research Scientist) at Bangladesh Atomic Energy Commission, Dhaka, Bangladesh.
+- 🌱 Profession: Scientific Officer (Research Scientist) at Bangladesh Atomic Energy Commission, Dhaka, Bangladesh.
 - 👀 I’m interested in Machine Learning,Natural Language Processing
 - 📫 Currently Learning C, C++ (problem solving, Data Structure, Algorithm) and python programming(OOP concepts)
 - 🌱 Also Practicing Machine Learning and Data Science
