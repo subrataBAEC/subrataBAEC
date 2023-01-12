@@ -20,8 +20,12 @@ You can click the Preview link to take a look at your changes.
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subrataBAEC&show_icons=true)
 
+### :fire: My Github Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subrataBAEC&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ## Most used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subrataBAEC)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Languages and Tools
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
