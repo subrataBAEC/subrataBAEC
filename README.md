@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" height="70"/>
+  
+</div>
+
 - 👋 Hi, I’m subrat saha
 - 🌱 Currently working as Scientific Officer (Research Scientist) at Bangladesh Atomic Energy Commission, Dhaka, Bangladesh.
 - 👀 I’m interested in Machine Learning,Natural Language Processing
