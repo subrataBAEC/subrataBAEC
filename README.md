@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://raw.githubusercontent.com/subrataBAEC/cf-stats/main/output/rating.svg)
 
 ## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asubrataBAEC&show_icons=true&theme=radical)
 
 ### :fire: My Github Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subrataBAEC&theme=dark&background=000000)](https://git.io/streak-stats)
